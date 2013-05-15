@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Tags basicas</title>
+</head>
+<body>
+<h1 id="TOP"></h1>
+<a href="#Link1">Desenvolvimento Web</a><br>
+<a href="#Link2">Desenvolvimento WEB2</a>
+<h1 id="Link1">Desenvolvimento Web</h1>
+<a href="#TOP">TOPO</a>
+<p>Lorem ipsum <b>dolor</b> sit amet, consectetur adipisicing elit. Sequi omnis ducimus quas optio sint quod laborum eum ipsam minima amet voluptatum illum accusamus earum inventore rem officia perspiciatis illo. Ratione.</p>
+<p>Nesciunt quod labore <i>molestiae</i> quis blanditiis in repellat suscipit <a href=http://www.google.com/>voluptates</a> deserunt voluptatum. Dolorum modi sapiente necessitatibus quos nam consectetur debitis cum ea rem eveniet cupiditate incidunt at quaerat sint ab!</p>
+<pre><p>Ab dolore sint minima sit corrupti aliquam dolor provident et unde quae error sapiente blanditiis natus nobis earum hic labore temporibus molestiae repellendus odio quas impedit harum ipsum numquam quisquam?</p>
+</pre>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo repellat dolore molestias neque magni asperiores soluta! Nemo quod placeat dicta unde doloribus similique non eveniet optio labore officiis fugit eos.</p>
+<p>Quibusdam iusto pariatur porro quia aspernatur magnam distinctio modi ratione architecto saepe necessitatibus excepturi repellendus! Maiores et provident voluptates cupiditate a reiciendis sapiente at. Repudiandae eius qui a iusto ipsum.</p>
+<p>Magnam vero rerum deleniti dolores voluptates omnis ipsa dicta quas consectetur unde sapiente repellendus fuga velit aspernatur repellat facilis provident architecto modi cupiditate earum vitae nobis praesentium neque voluptate blanditiis.</p>
+<a href=http://www.google.com target="blank"> <img src="http://rack.2.mshcdn.com/media/ZgkyMDEyLzEyLzAzL2U0L3NlZWhvd3lvdXJnLjlyMS5qcGcKcAl0aHVtYgk5NTB4NTM0IwplCWpwZw/8fec6ce4/e71/see-how-your-google-results-measure-up-with-google-grader-video--6b8bbb4b41.jpg" alt=ifpb title=logo do ifpb> </a>
+<h1 id="Link2">Desenvolvimento WEB2</h1>
+<a href="#TOP">TOPO</a>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas dolor sapiente excepturi rerum. Pariatur iure enim impedit consectetur consequatur quos quam beatae ut nisi totam. Delectus maiores quaerat veniam a?</p>
+<p>Quasi amet saepe. Vero consequatur aliquam nobis ad blanditiis veniam excepturi ratione laudantium molestias non provident sapiente ipsa deleniti inventore nesciunt enim sequi eaque suscipit est praesentium quaerat quibusdam dolore.</p>
+<p>Odit blanditiis autem distinctio hic nisi fuga accusamus consequatur consequuntur illum similique qui amet harum optio odio provident temporibus impedit? Enim labore voluptate impedit explicabo voluptatibus fuga iusto laboriosam architecto.</p>
+<p>Quia debitis eos ullam sequi magnam alias dolor inventore eum quidem cumque fugiat ratione earum nostrum labore iste veritatis ipsam tenetur non laudantium at asperiores minus omnis ad totam consequuntur!</p>
+<p>Vel iusto fuga laboriosam quam fugiat voluptate sequi voluptatum. Vel temporibus incidunt excepturi dolorum enim eligendi magni quas placeat eaque illum vero dicta deserunt earum nesciunt porro at harum odio.</p>
+</body>
+</html>
+
+    Write
+    Preview
+
+Comments are parsed with GitHub Flavored Markdown
