@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>tabela4</title>
+</head>
+<body>
+<table border="1" width="50%">
+<tr>
+<th bgcolor="orange" rowspan="3">Production</th>
+<td>Raha Mutisya</td>
+<td>1493</td>
+</tr>
+<tr>
+<td>Shalom Buraka</td>
+<td>3829</td>
+</tr>
+<tr>
+<td>Brady Davis</td>
+<td>0283</td>
+</tr>
+<tr>
+<th bgcolor="orange" rowspan="3">Sales</th>
+<td>Claire Home</td>
+<td>4827</td>
+</tr>
+<tr>
+<td>Bruce Eckel</td>
+<td>7246</td>
+</tr>
+<tr>
+<td>danny Zeman</td>
+<td>5689</td>
+</tr>
+</table>
+</body>
+</html>
