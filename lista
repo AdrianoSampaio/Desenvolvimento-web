@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Listas</title>
+</head>
+<body>
+<h3>Lista Ordenadas</h3><hr>
+<ol>
+<li>João Pessoa</li>
+<li>Bayeux</li>
+<li>Conde</li>
+</ol>
+<h3>Lista Ordenadas start 2</h3><hr>
+<ol start="2">
+<li>João Pessoa</li>
+<li>Bayeux</li>
+<li>Conde</li>
+</ol>
+<h3>Lista Ordenada com algarismo romano</h3><hr>
+<ol type="I">
+<li>João Pessoa</li>
+<li>Bayeux</li>
+<li>Conde</li>
+</ol>
+<h3>Lista Não Ordenada</h3><hr>
+<ul>
+<li>João Pessoa</li>
+<li>Bayeux</li>
+<li>Conde</li>
+</ul>
+<h3>Lista Não Ordenada com Quadrados</h3><hr>
+<ul type="square">
+<li>João Pessoa</li>
+<li>Bayeux</li>
+<li>Conde</li>
+</ul>
+<h3>Lista Descritiva</h3><hr>
+<dl>
+<dt>SI</dt>
+<dd>Sistemas para internet</dd>
+<dt>RC</dt>
+<dd>Redes de Computadores</dd>
+</dl>
+<h3>Lista Encadeada</h3><hr>
+<ol>
+<li>João Pessoa
+<ol>
+<li>Centro</li>
+<li>Jaguaribe</li>
+</ol>
+</li>
+<li>Bayeux</li>
+<li>Conde</li>
+</ol>
+</body>
+</html>
