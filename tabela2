@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>terceira tabela</title>
+</head>
+<body>
+<table border="1" width="50%">
+<tr>
+<th colspan="2" bgcolor="orange">Production</th>
+</tr>
+<tr>
+<td>Raha Mutisya</td>
+<td>1493</td>
+</tr>
+<tr>
+<td>Shalom Buraka</td>
+<td>3829</td>
+</tr>
+<tr>
+<td>Brandy Davis</td>
+<td>0283</td>
+</tr>
+<tr>
+<th colspan="2" bgcolor="orange">Sales</th>
+</tr>
+<tr>
+<td>Claire Home</td>
+<td>4827</td>
+</tr>
+<tr>
+<td>Bruce Eckel</td>
+<td>7246</td>
+</tr>
+<tr>
+<td>Danny Zeman</td>
+<td>5689</td>
+</tr>
+</table>
+</body>
