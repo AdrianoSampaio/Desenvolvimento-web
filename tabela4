@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+	<title>tabela5</title>
+</head>
+<body>
+	<table border="1" width="50%">
+		<tr>
+			<th bgcolor="LightSkyBlue" colspan="3">HTML tables Can Be Complex</th>
+		</tr>
+		<tr>
+			<th bgcolor="LightSteelBlue" colspan="2">Using Colspan = 2</th>
+			<td rowspan="2">Imagem IFPB
+			<img src="http://ead.ifpb.edu.br/static/media/ifpb_site.jpg" alt="logo ifpb" title="IFPB" height="200px" width="400px">
+			</td>
+		</tr>
+		<tr>
+			<td>Left</td>
+			<td>Right</td>
+		</tr>
+		<tr>
+			<td>Lower Left</td>
+			<th bgcolor="LightSteelBlue" colspan="2">Merged across 2 Cells</th>
+		</tr>
+	</table>
+</body>
+</html>
