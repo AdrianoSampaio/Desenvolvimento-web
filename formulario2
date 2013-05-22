@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+	<title>Formulario</title>
+</head>
+<body>
+	<form action="sucesso.html" method="post">
+		<fieldset>
+			<legend>Autenticação</legend>
+			<table>
+				<tr>
+					<td><label for="login">Login:</label></td>
+					<td><input type="text" name="login" id="login" placeholder="login"></td>
+				</tr>
+				<tr>
+					<td><label for="senha">Senha:</label></td>
+					<td><input required="required" type="password" name="senha" id="senha" placeholder="senha"></td>
+				</tr>
+			</table>
+		</fieldset>
+		<fieldset>
+			<legend>Dados Adicionais</legend>
+			<table>
+				<tr>
+					<td><label for="imagem">Imagem: </label></td>
+					<td><input type="file" name="imagem" id="imagem"> </td>
+				</tr>
+				<tr>
+					<td><label for="email">Email:</label></td>
+					<td><input type="email" name="email" id="email"></td>
+				</tr>	
+				<tr>
+					<td>Curso: </td>
+					<td><input type="radio" name="curso" id="redes" checked="checked"><label for="redes">Redes de Computadores</label><br> <input type="radio" name="curso" id="si"><label for="si">Sistemas de Internet</label></td>
+				</tr>
+				<tr>
+					<td>Habilitação: </td>
+					<td><input type="checkbox" name="habilitação" id="a"><label for="a">A</label>
+						<input type="checkbox" name="habilitação" id="b"><label for="b">B</label>
+						<input type="checkbox" name="habilitação" id="c"><label for="c">C</label>
+						<input type="checkbox" name="habilitação" id="d"><label for="d">D</label>
+						<input type="checkbox" name="habilitação" id="e"><label for="e">E</label>
+					</td>
+				</tr>
+				<tr>
+					<td><label for="mensagem">Mensagem</label></td>
+					<td><textarea name="mensagem" id="mensagem" cols="50" rows="10" placeholder="Digite aqui"></textarea></td>
+				</tr>
+				<tr>
+					<td><label for="cidade">Cidade</label></td>
+					<td>
+						<select>
+						<optgroup label="Litoral">
+							<option value="JP">João Pessoa</option> 
+							<option value="BA">Bayeux</option>
+							<option value="CA">Cabedelo</option>
+						</optgroup>
+						<optgroup label="Sertão">
+							<option value="PA">Patos</option>
+							<option value="CZ">Cajazeiras</option>
+						</optgroup>
+						</select>
+					</td>
+				</tr>
+			</table>
+		</fieldset>
+		<input type="submit" value="Login">
+		<input type="reset" value="Apagar">	
+	</form>
+</body>
+</html>
