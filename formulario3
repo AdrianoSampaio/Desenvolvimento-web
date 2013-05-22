@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+	<title>Formulario3</title>
+</head>
+<body>
+	<form action="sucesso.html" method="post">
+		<fieldset>
+			<legend>Dados Pessoais</legend>
+			<table>
+				<tr>
+					<td><label for="nome">Nome: </label></td>
+					<td colspan="4"><input size="71" type="text" name="texto" id="texto"></td>
+				</tr>
+				<tr>
+					<td><label for="Login">Login: </label></td>
+					<td><input type="text" name="Login" id="Login"></td>
+					<td><label for="Senha">Senha: </label></td>
+					<td><input type="password" name="Senha" id="Senha"></td>
+				</tr>
+				<tr>
+					<td><label for="sexo">Sexo: </label></td>
+					<td><input placeholder="exemplo de <datalist>" list="sexo"></td>
+					<td><label for="Idade">Idade: </label></td>
+					<td><input type="number" name="Idade" id="Idade"></td>
+				</tr>
+				<tr>
+					<td><label for="Imagem">Imagem: </label></td>
+					<td><input type="file" name="Imagem" id="Imagem"> </td>
+				</tr>
+			</table>
+				<input type="submit" value="Enviar">
+				<input type="reset" value="Apagar">
+		</fieldset>
+		<datalist id="sexo">
+		  <option value="Masculino">
+		  <option value="Feminino">
+		</datalist> 
+	</form>
+</body>
+</html>
